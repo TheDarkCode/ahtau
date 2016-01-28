@@ -3,3 +3,4 @@
 </p>
 
 #Public Repository
+All content and materials are copyrighted by Mark Hamilton and Dryverless unless otherwise explicitly stated.
